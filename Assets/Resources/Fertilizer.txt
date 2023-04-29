@@ -1,0 +1,11 @@
+id	name	min	max	limitTime	type	grade
+0	basicFert1	0	6	15	0	0
+1	basicFert2	0	9	30	0	1
+2	basicFert3	0	12	60	0	2
+3	basicFert4	0	14	120	0	3
+4	basicFert5	0	16	240	0	4
+5	specialFert1	16	20	15	1	0
+6	specialFert2	16	23	30	1	1
+7	specialFert3	16	26	60	1	2
+8	specialFert4	16	29	120	1	3
+9	specialFert5	16	32	240	1	4
